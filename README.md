@@ -1,7 +1,7 @@
 # 💫 About Me:
 Meu nome é Eduardo, sou um iniciante na área de cibersegurança. Estou interessado em aprender mais sobre segurança cibernética e como proteger sistemas e redes contra ameaças cibernéticas.<br><br>***Objetivos:***<br>Meu objetivo é desenvolver habilidades em segurança cibernética e aprender sobre as mais recentes técnicas e tecnologias de segurança. Quero ser capaz de aplicar essas habilidades para proteger sistemas e redes contra ameaças cibernéticas e ajudar a garantir a segurança dos dados.<br><br>***Habilidades:***<br>Atualmente, minhas habilidades incluem conhecimentos básicos em redes e sistemas operacionais. Também estou aprendendo sobre criptografia, análise de vulnerabilidades e testes de penetração.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/kaluana.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/1451747"></script>
 
 ## 🌐 Socials:
 
