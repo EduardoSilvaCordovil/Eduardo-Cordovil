@@ -6,7 +6,7 @@ Meu nome é Eduardo, sou um iniciante na área de cibersegurança. Estou interes
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/eduardo-cordovil-65b357214/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" </img> </a>
 </div>
 
 ### 
